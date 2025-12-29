@@ -13,8 +13,6 @@ A simple CRUD (Create, Read, Update, Delete) API for managing notes, built with 
 │   └── notes_store.go     # In-memory storage layer
 ├── handlers/
 │   └── notes_handler.go   # HTTP request handlers
-├── middleware/
-│   └── cors.go            # CORS middleware
 ├── utils/
 │   └── response.go        # HTTP response utilities
 ├── go.mod                 # Go module dependencies
